@@ -26,11 +26,11 @@ organization-logo-nav: https://cdil.lib.uidaho.edu/assets/img/logo.png
 # url is your gh-pages base, following the pattern: username.github.io
 # Leave this commented out unless you'd like to built the site somewhere other than GitHub pages. 
 # In the latter case, see documentation here --> https://uidaholib.github.io/oral-history-as-data/advancedtopics.html#serve-the-site-from-another-location-not-github-pages
-url: brobin09.github.io
+#url: brobin09.github.io
 # baseurl is your github repository's name prefixed with a /
- baseurl: /dlfohd 
+ #baseurl: /dlfohd 
 # repository is the github repository's full url
-repository: https://github.com/brobin09/dlfohd.git
+repository: https://github.com/brobin09/dlfohd
 
 
 
