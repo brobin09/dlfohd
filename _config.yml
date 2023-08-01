@@ -30,7 +30,7 @@ url: brobin09.github.io
 # baseurl is your github repository's name prefixed with a /
  baseurl: /dlfohd 
 # repository is the github repository's full url
-repository: https://github.com/brobin09/dlfohd
+repository: https://github.com/brobin09/dlfohd.git
 
 
 
